@@ -1,0 +1,37 @@
+#style.css
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.gray {
+	border: 1px solid darkgray;
+	background-color:lightslategray ;
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+
+.clear {
+	clear:both;
+}
+
+#Tab1 {
+    padding: 20px; 
+	width: 80%;
+	background-color: darkred;
+	display: none;
+}
+
+#Tab2 {
+	padding: 20px;
+	width: 80%;
+	background-color: hotpink;
+	display: none;
+}
+
+#Tab3 {
+	padding: 20px;
+	width: 80%;
+	background-color: royalblue;
+	display: none;
+}
